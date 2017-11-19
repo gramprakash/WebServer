@@ -1,0 +1,24 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "A web server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"hello\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramprakash/WebServer.git"
+  },
+  "keywords": [
+    "Web",
+    "Server"
+  ],
+  "author": "Guru Ramprakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gramprakash/WebServer/issues"
+  },
+  "homepage": "https://github.com/gramprakash/WebServer#readme"
+}

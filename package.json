@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/gramprakash/WebServer#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "fs": "0.0.1-security"
+    "body-parser": "*",
+    "express": "*",
+    "fs": "*"
   }
 }
